@@ -70,14 +70,14 @@ MAK Digital Studio is the home of apps, games and developer technology by **Make
 </tr>
 <tr>
 <td valign="top" width="50%">
-<a href="https://riftwardenendlesssiege.makdigitalstudio.com/"><img src="https://raw.githubusercontent.com/makdigitalstudio/.github/main/assets/riftwarden.webp" width="64" height="64" alt="Riftwarden: Endless Siege"></a>
+<a href="https://riftwardenendlesssiege.makdigitalstudio.com/"><img src="https://raw.githubusercontent.com/makdigitalstudio/.github/main/assets/riftwarden-app-icon.webp" width="64" height="64" alt="Riftwarden: Endless Siege"></a>
 <h3>Riftwarden: Endless Siege</h3>
 <p>Defend the arena with automatic ranged attacks and upgrade your build between fights.</p>
 <p><strong>In development</strong></p>
 <p><a href="https://riftwardenendlesssiege.makdigitalstudio.com/">Website ↗</a></p>
 </td>
 <td valign="top" width="50%">
-<a href="https://epochsmithidleevolution.makdigitalstudio.com/"><img src="https://raw.githubusercontent.com/makdigitalstudio/.github/main/assets/epochsmith.webp" width="64" height="64" alt="Epochsmith: Idle Evolution"></a>
+<a href="https://epochsmithidleevolution.makdigitalstudio.com/"><img src="https://raw.githubusercontent.com/makdigitalstudio/.github/main/assets/epochsmith-app-icon.webp" width="64" height="64" alt="Epochsmith: Idle Evolution"></a>
 <h3>Epochsmith: Idle Evolution</h3>
 <p>Forge and compare equipment to develop your character in an idle adventure.</p>
 <p><strong>In development</strong></p>
